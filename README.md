@@ -10,5 +10,5 @@ This project demonstrates how to use GitHub Actions to automatically deploy a st
 - Whenever changes are pushed to the `main` branch, GitHub Actions checks if the `index.html` file has been modified.
 - If it has, the workflow deploys the updated website to GitHub Pages.
 
-## Access the Website
-The website is hosted at: [https://ronskillz256.github.io/gh-deployment-workflow/](https://ronskillz256.github.io/gh-deployment-workflow/)
+# Project URL
+https://roadmap.sh/projects/github-actions-deployment-workflow
